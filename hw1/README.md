@@ -1,11 +1,11 @@
 # Applied Deep Learning Homework 1
 
 ## 1. python files
-   a. Intent Classification NTU ADL HW1 (Spring, 2022)
+   a. Intent Classification  <br>
       The intent.py is the file for reproducing the below kaggle competition outcome.<br>
       URL: https://www.kaggle.com/c/ntu-adl-hw1-intent-cls-spring-2022
 
-   b. Slot Tagging NTU ADL HW1 (Spring, 2022)
+   b. Slot Tagging  <br>
       The slot.py is the file for reproducing the below kaggle competition outcome.<br>
       URL: https://www.kaggle.com/c/slot-tagging-ntu-adl-hw1-spring-2022
 

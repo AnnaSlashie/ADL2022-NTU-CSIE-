@@ -17,9 +17,9 @@
    This file will download the best training model.
 
 ## 4. Reproduce the competition outcomes(csv.files) 
-   a. bash download.sh
-   b. bash intent_cls.sh  <dataset_path> <pred_csv_path>
-   c. bash slot_tag.sh  <dataset_path> <pred_csv_path> 
+   * a. bash download.sh
+   * b. bash intent_cls.sh  <dataset_path> <pred_csv_path>
+   * c. bash slot_tag.sh  <dataset_path> <pred_csv_path> 
    
-   <dataset_path>: path to dataset
-   <pred_csv_path>: path to predict csv
+   *　<dataset_path>: path to dataset
+ 　＊　<pred_csv_path>: path to predict csv

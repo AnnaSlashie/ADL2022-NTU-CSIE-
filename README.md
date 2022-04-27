@@ -5,4 +5,4 @@ URL:https://www.csie.ntu.edu.tw/~miulab/s110-adl/
 
 ## Contents
 * **hw1**: Intent Classification and Slot Tagging
-* **hw2**: Content Selection and Question Answering
+* **hw2**: Context Selection and Question Answering

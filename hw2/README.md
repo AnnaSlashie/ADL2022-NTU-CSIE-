@@ -38,5 +38,5 @@
    * b. produce the curve pictures <br>
       * python qa_plot.py --trainer_state1_path <trainer_state1_path> --trainer_state2_path <trainer_state2_path> <br>
        <br>
-      * <trainer_state1_path>: path to qa_best_model(RoBERTa-wwm-ext) <br>
-      * <trainer_state2_path>: path to qa_bert_model(BERT) <br>
+        <trainer_state1_path>: path to qa_best_model(RoBERTa-wwm-ext) <br>
+        <trainer_state2_path>: path to qa_bert_model(BERT) <br>
